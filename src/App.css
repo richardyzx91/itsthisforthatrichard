@@ -1,0 +1,32 @@
+html { background-color: snow; }
+.App {
+  text-align: center;
+ }
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+
+.App-title {
+  font-size: 1.5em; 
+}
+
+
+
+.Intro { font-size: 50px; }
+
+.This { padding: 20px 20px; color: blue; font-size: 50px; }
+.For { font-size: 50px; }
+.That { padding: 20px 20px; color: blue; font-size: 50px; }
+.Refresh { background-color: #008CBA; border: none; color: white; padding: 15px 32px; text-align: center; display: inline-block; font-size: 26px; }
